@@ -1,5 +1,5 @@
 """My template"""
-def main1():
+def main():
     """Driven function"""
     print('Main function')
 
