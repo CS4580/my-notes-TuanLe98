@@ -12,7 +12,7 @@ import shutil
 import os, sys
 import zipfile
 
-SERVER_URL = 'http://icarus.cs.weber.edu/~hvalle/cs4580/data'
+SERVER_URL = 'icarus.cs.weber.edu/~hvalle/cs4580/data/plottingDemo01.zip'
 
 
 def extract_zip_file(zip_path):
